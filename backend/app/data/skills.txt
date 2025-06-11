@@ -1,0 +1,19 @@
+python
+machine learning
+data analysis
+sql
+pandas
+numpy
+docker
+kubernetes
+aws
+fastapi
+tensorflow
+pytorch
+nlp
+flask
+git
+excel
+scikit-learn
+communication
+teamwork
